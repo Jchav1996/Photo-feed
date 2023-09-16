@@ -1,4 +1,4 @@
-/* {
+/*{
   min-height: 10px;
   border: 1px dashed red;
 }*/
@@ -8,11 +8,15 @@ body {
   font-family: 'Mooli', sans-serif;
   font-family: 'Mulish', sans-serif;
   font-family: 'Roboto', sans-serif;
+  background-image: url(https://img.freepik.com/premium-vector/vector-abstract-background-texture-wave-lines-trendy-soft-violet-shades-autumn-season-eps-design-poster-banner-brochures-wrapping-cards-price-tag-label-web-eps-monochromic_498312-982.jpg?w=740);
+  background-repeat: repeat;
+  width: 625px;
+  margin: auto;
 }
+
 .post {
-  width: 900px;
+  width: auto;
   height: 100%;
-  background: grey solid;
   margin: auto;
 }
 .header {
@@ -29,14 +33,11 @@ body {
   align-items: center;
   width: 600px;
   height: 33px;
-  margin-left: 128px;
   margin-top: 18px;
   padding: 11px;
 }
 .first-img img {
-  width: 622px;
-  margin-left: 113px;
-  padding: 15px;
+  width: 624px;
   margin-top: -15px;
 }
 .first p + p {
@@ -47,7 +48,6 @@ body {
   background-color: pink;
   width: 600px;
   height: 33px;
-  margin-left: 128px;
   margin-top: -20px;
   padding: 11px;
   align-items: center;
@@ -60,15 +60,12 @@ body {
   align-items: center;
   width: 600px;
   height: 33px;
-  margin-left: 128px;
   margin-top: 18px;
   padding: 11px;
 }
 .second-img img {
   width: 622px;
   height: 600px;
-  margin-left: 113px;
-  padding: 15px;
   margin-top: -15px;
 }
 .second p + p {
@@ -79,7 +76,6 @@ body {
   background-color: pink;
   width: 600px;
   height: 33px;
-  margin-left: 128px;
   margin-top: -20px;
   padding: 11px;
   align-items: center;
@@ -92,15 +88,12 @@ body {
   align-items: center;
   width: 600px;
   height: 33px;
-  margin-left: 128px;
   margin-top: 18px;
   padding: 11px;
 }
 .third-img img {
   width: 622px;
   height: 600px;
-  margin-left: 113px;
-  padding: 15px;
   margin-top: -15px;
 }
 .third p + p {
@@ -111,7 +104,6 @@ body {
   background-color: pink;
   width: 600px;
   height: 33px;
-  margin-left: 128px;
   margin-top: -20px;
   padding: 11px;
   align-items: center;
@@ -124,15 +116,12 @@ body {
   align-items: center;
   width: 600px;
   height: 33px;
-  margin-left: 128px;
   margin-top: 18px;
   padding: 11px;
 }
 .fourth-img img {
   width: 622px;
   height: 600px;
-  margin-left: 113px;
-  padding: 15px;
   margin-top: -15px;
 }
 .fourth p + p {
@@ -143,7 +132,6 @@ body {
   background-color: pink;
   width: 600px;
   height: 33px;
-  margin-left: 128px;
   margin-top: -20px;
   padding: 11px;
   align-items: center;
@@ -156,15 +144,12 @@ body {
   align-items: center;
   width: 600px;
   height: 33px;
-  margin-left: 128px;
   margin-top: 18px;
   padding: 11px;
 }
 .fifth-img img {
   width: 622px;
   height: 600px;
-  margin-left: 113px;
-  padding: 15px;
   margin-top: -15px;
 }
 .fifth p + p {
@@ -175,7 +160,34 @@ body {
   background-color: pink;
   width: 600px;
   height: 33px;
-  margin-left: 128px;
+  margin-top: -20px;
+  padding: 11px;
+  align-items: center;
+}
+
+.sixth {
+  display: flex;
+  background-color: pink;
+  justify-content: space-between;
+  align-items: center;
+  width: 600px;
+  height: 33px;
+  margin-top: 18px;
+  padding: 11px;
+}
+.sixth-img img {
+  width: 622px;
+  height: 300px;
+  margin-top: -15px;
+}
+.sixth p + p {
+  color: purple;
+}
+.sixth-comment {
+  display: flex;
+  background-color: pink;
+  width: 600px;
+  height: 33px;
   margin-top: -20px;
   padding: 11px;
   align-items: center;
