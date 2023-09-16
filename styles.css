@@ -4,16 +4,15 @@
 }*/
 body {
   background: rgb(190, 147, 238);
-  font-family: 'Libre Baskerville', serif;
-  font-family: 'Mooli', sans-serif;
-  font-family: 'Mulish', sans-serif;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Mooli", sans-serif;
+  font-family: "Mulish", sans-serif;
+  font-family: "Roboto", sans-serif;
   background-image: url(https://img.freepik.com/premium-vector/vector-abstract-background-texture-wave-lines-trendy-soft-violet-shades-autumn-season-eps-design-poster-banner-brochures-wrapping-cards-price-tag-label-web-eps-monochromic_498312-982.jpg?w=740);
   background-repeat: repeat;
   width: 625px;
   margin: auto;
 }
-
 .post {
   width: auto;
   height: 100%;
@@ -53,7 +52,6 @@ body {
   padding: 11px;
   align-items: center;
 }
-
 .second {
   display: flex;
   background-color: pink;
@@ -81,7 +79,6 @@ body {
   padding: 11px;
   align-items: center;
 }
-
 .third {
   display: flex;
   background-color: pink;
@@ -109,7 +106,6 @@ body {
   padding: 11px;
   align-items: center;
 }
-
 .fourth {
   display: flex;
   background-color: pink;
@@ -137,7 +133,6 @@ body {
   padding: 11px;
   align-items: center;
 }
-
 .fifth {
   display: flex;
   background-color: pink;
@@ -165,7 +160,6 @@ body {
   padding: 11px;
   align-items: center;
 }
-
 .sixth {
   display: flex;
   background-color: pink;
